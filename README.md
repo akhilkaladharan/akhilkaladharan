@@ -1,7 +1,11 @@
 👋 Hi, I'm Akhil
 
-🎓 DevOps Student  
-🚀 Passionate about Cloud, Automation & CI/CD  
+🎓 DevOps student passionate about cloud computing, automation, and modern infrastructure.  
+🚀 Hands-on experience with Docker, Kubernetes, AWS, and CI/CD pipelines.  
+🛠️ I enjoy building, breaking, and automating systems to make deployments faster and more reliable.  
+
+🌱 Currently learning advanced Kubernetes, Terraform, and cloud-native DevOps practices.  
+📌 Actively working on real-world DevOps projects and improving my GitHub every day.
 
 🛠️ Skills
 - Linux, Git, Bash
