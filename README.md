@@ -1,4 +1,21 @@
-## Hi there 👋
+👋 Hi, I'm Akhil
+
+🎓 DevOps Student  
+🚀 Passionate about Cloud, Automation & CI/CD  
+
+🛠️ Skills
+- Linux, Git, Bash
+- Docker, Kubernetes
+- AWS (EC2, S3, IAM)
+- Jenkins, GitHub Actions
+- Terraform (basic)
+
+ 📌 Projects
+- AWS EC2 Dockerized Web App
+
+📫 Connect with me
+- LinkedIn: www.linkedin.com/in/akhil-kaladharan
+
 
 <!--
 **akhilkaladharan/akhilkaladharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
