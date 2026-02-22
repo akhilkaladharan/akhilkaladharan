@@ -13,6 +13,8 @@
 - AWS (EC2, S3, IAM)
 - Jenkins, GitHub Actions
 - Terraform (basic)
+- Ansible
+- prometheus, Grafana
 
  📌 Projects
 - AWS EC2 Dockerized Web App
