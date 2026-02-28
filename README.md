@@ -1,39 +1,88 @@
-👋 Hi, I'm Akhil
+<h1 align="center">Hi 👋, I'm Akhil K</h1>
+<h3 align="center">🚀 DevOps Engineer | Cloud Enthusiast | Automation Specialist</h3>
 
-🎓 DevOps student passionate about cloud computing, automation, and modern infrastructure.  
-🚀 Hands-on experience with Docker, Kubernetes, AWS, and CI/CD pipelines.  
-🛠️ I enjoy building, breaking, and automating systems to make deployments faster and more reliable.  
+<p align="center">
+  <a href="https://linkedin.com/in/akhil-kaladharan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:akhilkaladharan25@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/akhilkaladharan">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-🌱 Currently learning advanced Kubernetes, Terraform, and cloud-native DevOps practices.  
-📌 Actively working on real-world DevOps projects and improving my GitHub every day.
+---
 
-🛠️ Skills
-- Linux, Git, Bash
-- Docker, Kubernetes
-- AWS (EC2, S3, IAM)
-- Jenkins, GitHub Actions
-- Terraform (basic)
-- Ansible
-- prometheus, Grafana
+## 👨‍💻 About Me
 
- 📌 Projects
-- AWS EC2 Dockerized Web App
+🎓 DevOps Graduate  
+☁️ Passionate about Cloud & Automation  
+⚙️ Focused on CI/CD, Infrastructure as Code & Container Orchestration  
+📈 Always learning and improving DevOps best practices  
 
-📫 Connect with me
-- LinkedIn: www.linkedin.com/in/akhil-kaladharan
+---
 
+## 🛠️ Tech Stack
 
-<!--
-**akhilkaladharan/akhilkaladharan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🖥️ Operating System
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" />
+</p>
 
-Here are some ideas to get you started:
+### 🔧 Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ☁️ Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" />
+</p>
+
+### 🐚 Scripting
+<p>
+  <img src="https://skillicons.dev/icons?i=bash" />
+</p>
+
+### 🐳 Containers & Orchestration
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+### 🏗️ Infrastructure as Code
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform,ansible" />
+</p>
+
+### 🔄 CI/CD
+<p>
+  <img src="https://skillicons.dev/icons?i=jenkins" />
+</p>
+
+### 📊 Monitoring
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
+</p>
+
+---
+
+## 🚀 DevOps Tools Overview
+
+<p align="center"
+  ![Akhil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhilkaladharan&show_icons=true&theme=tokyonight)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhilkaladharan&theme=tokyonight" height="180em"/>
+</p>
+
+---
+
+## 📌Projects
+
+### 1.AWS EC2 Dockerized Web App
+👉 [View Full Project Code](https://github.com/akhilkaladharan/DOCKER-PROJECT1)
+
+## 🔥 DevOps Workflow I Follow
+
+```text
+Plan → Code → Build → Test → Release → Deploy → Monitor → Optimize
