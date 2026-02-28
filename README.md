@@ -69,6 +69,11 @@
 ---
 
 ## 🚀 DevOps Tools Overview
+<div align="center">
+  
+![snake gif](https://github.com/akhilkaladharan/akhilkaladharan/blob/output/github-snake-dark.svg)
+
+</div>
 
 <p align="center"
   ![Akhil's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=akhilkaladharan&show_icons=true&theme=tokyonight)
